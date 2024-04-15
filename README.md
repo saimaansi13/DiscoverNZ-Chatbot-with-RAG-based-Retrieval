@@ -13,6 +13,12 @@ Before the pandemic, tourism in New Zealand flourished, contributing NZ$44.7 bil
 <img width="550" alt="chatbot - business problem" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/7df93bb6-7b18-40dc-9e59-527f1046d0b0">
 
 ## Structure and Technicalities
+### 1) Data Collection
+The data collection process involved thorough research conducted on official travel and tourism websites of New Zealand, including sources such as NewZealand.com. Information relevant to the project was meticulously gathered from these websites, encompassing a wide range of tourism related content, such as destination guides, activity listings, and accommodation information.
+
+<img width="452" alt="dc - chatbot" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/0c493247-4642-4e6a-9646-db245a7185d0">
+
+
 ### 1) Document Loading and Parsing 
 Started by loading the content from a PDF document (Nz_Info_Final.pdf). This is achieved using the PyPDFLoader module from langchain, which reads the content of the PDF file and prepares it for further processing.
 ```python
