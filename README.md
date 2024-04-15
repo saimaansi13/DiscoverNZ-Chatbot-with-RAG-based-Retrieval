@@ -1,6 +1,5 @@
 
-<img width="595" alt="title page" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/2b1580a8-1cfc-49fe-b256-b383a408a446">
-
+<img width="650" alt="title page" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/b93b6f01-fc46-41e0-9e71-a3ab4f53eb98">
 
 ![chatbot - GIF](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/45fa51c7-a3be-4766-8cb5-2baf09d68ddb)
 
