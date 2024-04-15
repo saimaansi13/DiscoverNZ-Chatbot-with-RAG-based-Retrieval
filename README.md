@@ -20,16 +20,11 @@ The data collection process involved thorough research conducted on official tra
 
 ### 2) Data Storage 
 Following the collection, the gathered data was meticulously organized and segregated into multiple PDF documents, each dedicated to a specific aspect of the travel and tourism landscape, such as activities, accommodation, transportation etc. Subsequently, all the sorted PDFs were consolidated into a single document for streamlined access, simplifying the uploading and utilization process.
-<img wight = "100" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/8c342145-9c06-4896-9c70-8095f736286b">
 
 ### 2) Text Splitting 
 To facilitate efficient processing, the raw text from the PDF documents is split into smaller chunks. This is done using the RecursiveCharacterTextSplitter module from langchain, which divides the text into chunks of specified size with an overlap.
-```python
-text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=100, chunk_overlap=20, length_function=len
-)
-documents = text_splitter.split_documents(raw_documents)
-```
+![cb1](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/4142f00e-2893-4e9c-ac4e-23a7cdad5d04)
+
 ### 3) Embeddings Generation
 Next, I generated embeddings for each text chunk. Embeddings are numerical representations of text that capture semantic meaning. In this implementation, OpenAI embeddings are used, which are pre-trained on a large corpus of text data.
 ```python
