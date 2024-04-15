@@ -61,7 +61,7 @@ iface.launch(inline=True)
 ```
 
 ## Acknowledgements
-OpenAI for providing the GPT-3.5 language model.
-gradio for the easy-to-use interface creation.
-FAISS for efficient similarity search and clustering of dense vectors.
+- **OpenAI** for providing the GPT-3.5 language model.
+- **gradio** for the easy-to-use interface creation.
+- **FAISS** for efficient similarity search and clustering of dense vectors.
 
