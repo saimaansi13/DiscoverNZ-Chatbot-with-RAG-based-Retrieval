@@ -8,8 +8,9 @@
 DiscoverNZ is an AI-driven conversational chatbot engineered to enhance the exploration experience of New Zealand. Leveraging state-of-the-art large language models (LLMs) and advanced information retrieval methodologies, this project facilitates dynamic interactions with users, offering tailored recommendations for tourist attractions, cultural immersion, and comprehensive insights into New Zealand's diverse offerings. Through the integration of natural language processing (NLP) techniques and advanced retrieval algorithms, DiscoverNZ delivers personalized and contextually relevant information to users.
 
 ## Business Problem 
-The tourism industry in New Zealand, once flourishing, faced a significant downturn due to the COVID-19 pandemic. Despite efforts to recover, challenges such as fluctuating visitor numbers and uncertain market conditions persist. DiscoverNZ seeks to be a part of the solution by offering a streamlined approach to assist travelers in navigating the evolving landscape of New Zealand's tourism sector.
+Before the pandemic, tourism in New Zealand flourished, contributing NZ$44.7 billion to the economy and supporting over 230,000 jobs in 2019. However, the sector faced an 82% decrease in international visitor arrivals and a drop in total expenditure to NZ$6.8 billion in 2020. Despite recovery efforts, international tourists spent approximately NZ$1.9 billion in 2022, still below pre-pandemic levels. The industry also saw an 8.2% decrease in hotel and resort establishments from 2019 to 2022.
 
+<img width="333" alt="chatbot - business problem" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/7df93bb6-7b18-40dc-9e59-527f1046d0b0">
 
 ## Structure and Technicalities
 ### 1) Document Loading and Parsing 
