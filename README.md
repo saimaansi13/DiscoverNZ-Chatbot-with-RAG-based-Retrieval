@@ -1,5 +1,6 @@
 
-![c![2](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/21ee6147-3b2d-458a-82eb-cd6c921be14f)
+![2](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/8ed17246-7b17-4f03-a915-91a9da73e995)
+
 hatbot - GIF](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/fa2db78c-2b5a-4c46-a899-d0b33c1345d7)
 
 
