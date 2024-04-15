@@ -16,7 +16,8 @@ Before the pandemic, tourism in New Zealand flourished, contributing NZ$44.7 bil
 ### 1) Data Collection
 The data collection process involved thorough research conducted on official travel and tourism websites of New Zealand, including sources such as NewZealand.com. Information relevant to the project was meticulously gathered from these websites, encompassing a wide range of tourism related content, such as destination guides, activity listings, and accommodation information.
 
-<img width="452" alt="dc - chatbot" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/0c493247-4642-4e6a-9646-db245a7185d0">
+![Untitled design](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/cc379366-a195-44fd-bc98-18757a7f4dc9)
+
 
 
 ### 1) Document Loading and Parsing 
