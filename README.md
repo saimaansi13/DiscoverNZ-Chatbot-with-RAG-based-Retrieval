@@ -18,14 +18,10 @@ The data collection process involved thorough research conducted on official tra
 
 ![Untitled design](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/cc379366-a195-44fd-bc98-18757a7f4dc9)
 
+### 2) Data Storage 
+Following the collection, the gathered data was meticulously organized and segregated into multiple PDF documents, each dedicated to a specific aspect of the travel and tourism landscape, such as activities, accommodation, transportation etc. Subsequently, all the sorted PDFs were consolidated into a single document for streamlined access, simplifying the uploading and utilization process.
+![merge](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/8c342145-9c06-4896-9c70-8095f736286b)
 
-
-### 1) Document Loading and Parsing 
-Started by loading the content from a PDF document (Nz_Info_Final.pdf). This is achieved using the PyPDFLoader module from langchain, which reads the content of the PDF file and prepares it for further processing.
-```python
-loader = PyPDFLoader("/content/Nz_Info_Final.pdf")
-raw_documents = loader.load()
-```
 ### 2) Text Splitting 
 To facilitate efficient processing, the raw text from the PDF documents is split into smaller chunks. This is done using the RecursiveCharacterTextSplitter module from langchain, which divides the text into chunks of specified size with an overlap.
 ```python
