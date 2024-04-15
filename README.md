@@ -2,8 +2,7 @@
 <img width="750" alt="title page" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/b93b6f01-fc46-41e0-9e71-a3ab4f53eb98">
 
 
-
-
+# Preview
 ![chatbot - GIF](https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/45fa51c7-a3be-4766-8cb5-2baf09d68ddb)
 
 
