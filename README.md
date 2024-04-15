@@ -10,7 +10,7 @@ DiscoverNZ is an AI-driven conversational chatbot engineered to enhance the expl
 ## Business Problem 
 Before the pandemic, tourism in New Zealand flourished, contributing NZ$44.7 billion to the economy and supporting over 230,000 jobs in 2019. However, the sector faced an 82% decrease in international visitor arrivals and a drop in total expenditure to NZ$6.8 billion in 2020. Despite recovery efforts, international tourists spent approximately NZ$1.9 billion in 2022, still below pre-pandemic levels. The industry also saw an 8.2% decrease in hotel and resort establishments from 2019 to 2022.
 
-<img width="333" alt="chatbot - business problem" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/7df93bb6-7b18-40dc-9e59-527f1046d0b0">
+<img width="550" alt="chatbot - business problem" src="https://github.com/saimaansi13/DiscoverNZ-Chatbot-with-RAG-based-Retrieval/assets/125540201/7df93bb6-7b18-40dc-9e59-527f1046d0b0">
 
 ## Structure and Technicalities
 ### 1) Document Loading and Parsing 
